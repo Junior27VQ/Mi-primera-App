@@ -9,6 +9,8 @@ expo-env.d.ts
 
 # AI Assistant local files
 .claude/
+AGENTS.md
+CLAUDE.md
 
 # Native
 .kotlin/
